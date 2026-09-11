@@ -64,7 +64,7 @@ The network topology diagram is available in:
 
 ## 📁 Project Files
 
-- `11.dhcp ip 1.pkt` – Cisco Packet Tracer project file
+- `1.Static IP.pkt` – Cisco Packet Tracer project file
 - `Image of Topology.png` – Network topology diagram
 - `README.md` – Project documentation
 
